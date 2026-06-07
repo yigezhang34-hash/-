@@ -1,0 +1,6 @@
+{
+  "name": "冰箱保卫战",
+  "description": "智能冰箱食材保质期管理、科学膳食规划、临期食材一键健康排餐健康膳食、创意食谱推荐的独居青年食材与烹饪管家",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
